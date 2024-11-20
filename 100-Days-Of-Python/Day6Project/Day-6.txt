@@ -1,0 +1,4 @@
+Day 6: Created a Karel robot project using Python functions.  
+- Wrote reusable functions for the robot's movements like turn_right().  
+- Solved a maze by breaking the problem into smaller tasks and using loops.  
+- Learned how to optimize Karel's tasks with function calls.  
